@@ -2,7 +2,7 @@
 
 ## Experience
 ---
-Experience leading a remote team and the development of dynamic web apps with Jakarta EE and MySQl (See [Moffat Bay](https://github.com/paulromer12/Moffat-Bay)).  
+Experience leading a remote team and the development of dynamic web apps with Jakarta EE and MySQL (See [Moffat Bay](https://github.com/paulromer12/Moffat-Bay)).  
 
 ## Education
 ---
